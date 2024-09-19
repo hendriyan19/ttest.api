@@ -1,0 +1,26 @@
+# Ignore build results
+[Bb]in/
+[Oo]bj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.suo
+*.ncb
+*.vssscc
+*.vsscc
+
+# Ignore configuration files
+appsettings.Development.json
+
+# Ignore IDE directories
+.vs/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
